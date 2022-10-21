@@ -1,8 +1,6 @@
-this is another test
 git is a software distributed under GPL
 git is a distributed control system
 git has a mutable index called stage
-this is a test
-this is another test
+git tracts changes of files
 
-
+less
