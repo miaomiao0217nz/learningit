@@ -1,4 +1,8 @@
-git is a free software distributed under GPL
-git is a good distributed control system
+this is another test
+git is a software distributed under GPL
+git is a distributed control system
 git has a mutable index called stage
-git tracts changes of flies
+this is a test
+this is another test
+
+
